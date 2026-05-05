@@ -1,0 +1,4 @@
+cl/duoc/notificaciones/model/Notificacion.class
+cl/duoc/notificaciones/controller/NotificacionController.class
+cl/duoc/notificaciones/NotificacionesApplication.class
+cl/duoc/notificaciones/repository/NotificacionRepository.class

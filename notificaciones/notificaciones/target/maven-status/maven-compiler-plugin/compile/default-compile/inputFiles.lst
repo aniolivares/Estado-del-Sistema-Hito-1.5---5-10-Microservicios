@@ -1,0 +1,4 @@
+/app/notificaciones/src/main/java/cl/duoc/notificaciones/NotificacionesApplication.java
+/app/notificaciones/src/main/java/cl/duoc/notificaciones/controller/NotificacionController.java
+/app/notificaciones/src/main/java/cl/duoc/notificaciones/model/Notificacion.java
+/app/notificaciones/src/main/java/cl/duoc/notificaciones/repository/NotificacionRepository.java

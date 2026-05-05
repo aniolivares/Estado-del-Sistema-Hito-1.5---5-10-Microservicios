@@ -1,0 +1,5 @@
+/app/favoritos/src/main/java/cl/duoc/favoritos/FavoritosApplication.java
+/app/favoritos/src/main/java/cl/duoc/favoritos/controller/FavoritoController.java
+/app/favoritos/src/main/java/cl/duoc/favoritos/model/Favorito.java
+/app/favoritos/src/main/java/cl/duoc/favoritos/repository/FavoritoRepository.java
+/app/favoritos/src/main/java/cl/duoc/favoritos/service/FavoritoService.java

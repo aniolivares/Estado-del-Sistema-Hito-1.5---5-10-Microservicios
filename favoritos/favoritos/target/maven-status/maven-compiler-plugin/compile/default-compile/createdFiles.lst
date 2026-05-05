@@ -1,0 +1,4 @@
+cl/duoc/favoritos/repository/FavoritoRepository.class
+cl/duoc/favoritos/controller/FavoritoController.class
+cl/duoc/favoritos/model/Favorito.class
+cl/duoc/favoritos/FavoritosApplication.class
